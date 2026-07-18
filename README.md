@@ -134,11 +134,11 @@ AWS 3-tier architecture portfolio project with monitoring, logging, and serverle
 
 | Phase | Status | Components | Time | Cost |
 |---|---|---|---|---|
-| **A** | ✅ | VPC, EC2, ALB, RDS | 8h 35m | ¥0 |
-| **B** | ✅ | CloudWatch, SNS, S3, Budgets | 1h 42m | ¥0 |
+| **A** | ✅ | VPC, EC2, ALB, RDS | 3h 51m | ¥0 |
+| **B** | ✅ | CloudWatch, SNS, S3, Budgets | 1h 26m | ¥0 |
 | **C** | ✅ | Lambda, API Gateway, DynamoDB | 1h 25m | ¥0 |
 | **D** | ✅ | Terraform IaC, GitHub | 1h 30m | ¥0 |
-| **Total** | ✅ 100% | Full Stack Implementation | ~13h | ¥0 |
+| **Total** | ✅ 100% | Full Stack Implementation | ~10h | ¥0 |
 
 ---
 
