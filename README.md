@@ -34,7 +34,7 @@ AWS 3-tier architecture portfolio project with monitoring, logging, and serverle
 **Lambda Function**:
 - ✅ Function Name: `3tier-backend-function`
 - ✅ Runtime: Python 3.12
-- ✅ ARN: `arn:aws:lambda:ap-northeast-1:250999637867:function:3tier-backend-function`
+- ✅ ARN: `arn:aws:lambda:ap-northeast-1:🔒🔒🔒🔒🔒🔒7:function:3tier-backend-function`
 - ✅ Timeout: 30 seconds
 - ✅ Memory: 128 MB
 
